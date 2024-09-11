@@ -1,0 +1,5 @@
+﻿ticker;interval;combinaison;signals_combi;weight
+TSLA;1;['hma', 'ema', 'stoch_lag', 'stoch_rsi_lag', 'vwma', '15', '0', '0', '35', '0', '0', '14', '20', '5', '25', '40', '40', '40', '0', '0'];['All', 'EMA_out', 'SL_fixed', '3', '5', '0.3'];0.25
+TSLA;5;['hma', 'ema', 'stoch_lag', 'stoch_rsi_lag', 'vwma', '15', '0', '0', '35', '0', '0', '14', '20', '5', '25', '40', '40', '40', '0', '0'];['All', 'EMA_out', 'SL_fixed', '3', '5', '0.3'];0.25
+TSLA;60;['hma', 'ema', 'stoch_lag', 'stoch_rsi_lag', 'vwma', '15', '0', '0', '35', '0', '0', '14', '20', '5', '25', '40', '40', '40', '0', '0'];['All', 'EMA_out', 'SL_fixed', '3', '5', '0.3'];0.25
+TSLA;1440;['hma', 'ema', 'stoch_lag', 'stoch_rsi_lag', 'vwma', '15', '0', '0', '35', '0', '0', '14', '20', '5', '25', '40', '40', '40', '0', '0'];['All', 'EMA_out', 'SL_fixed', '3', '5', '0.3'];0.25

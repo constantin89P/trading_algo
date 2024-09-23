@@ -64,7 +64,7 @@ REPO_NAME = "Avril_2024"
 
 
 histo_client = StockHistoricalDataClient(A_KEY, A_SECRET)
-trading_client = TradingClient(A_KEY, A_SECRET, paper=True)
+trading_client = TradingClient(A_KEY, A_SECRET, paper=IS_PAPER)
 if interval <60 : timestamp = TimeFrame(interval, TimeFrameUnit.Minute)
 SESSION = "Close"
 
